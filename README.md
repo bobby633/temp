@@ -1,4 +1,4 @@
-# Project.er
+# Project.erl
 # this project doesnt work but these do
 
 to get the code working  firstly you need to 
